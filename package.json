@@ -1,0 +1,5 @@
+{
+  "name": "rails5_custom_error_with_slack_notification",
+  "private": true,
+  "dependencies": {}
+}
